@@ -19,8 +19,8 @@ on:
 
 env:
   ACR_NAME: rtcorpacr.azurecr.io
-  ACR_REPO_NAME: demogaurav.azurecr.io/docker-java-app
-  ARTIFACT_NAME: docker-java-app
+  ACR_REPO_NAME: rtcorpacr.azurecr.io/blue-nginx
+  ARTIFACT_NAME: blue-nginx
   RESOURCE_GROUP: rtcorp-aks-main_group
   AKS_CLUSTER_NAME: rtcorp-aks-main
   
