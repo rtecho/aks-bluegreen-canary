@@ -28,7 +28,7 @@ spec:
     spec:
       containers: 
         - name: nginx
-          image: rtcorpacr.azurecr.io/green-nginx:1
+          image: rtcorpacr.azurecr.io/blue-nginx:1
           ports:
             - name: http
               containerPort: 80
